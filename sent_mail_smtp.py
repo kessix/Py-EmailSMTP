@@ -1,5 +1,5 @@
 ##############################################################################
-# Script aviso de Backup realizado
+# Script envia e-mail via SMTP
 # Idealizado por Robert Silva e adaptado por Kessi Diones (@kessix) 
 # ################################################################################################
 
